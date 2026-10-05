@@ -27,7 +27,7 @@ Leave Service
 * MCP Client
 * LLM tool calling
 * Employee leave management
-* JSON responses
+* text responses
 
 ## Related Repository
 
